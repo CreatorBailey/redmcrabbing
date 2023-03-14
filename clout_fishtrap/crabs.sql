@@ -1,0 +1,3 @@
+INSERT INTO `items`(`item`, `label`, `limit`, `can_remove`, `type`, `usable`) VALUES ('trap', 'Fisherman Trap', 1, 1, 'item_standard', 1);
+INSERT INTO `items`(`item`, `label`, `limit`, `can_remove`, `type`, `usable`) VALUES ('fishhook', 'Hook', 1, 1, 'item_standard', 0);
+INSERT INTO `items`(`item`, `label`, `limit`, `can_remove`, `type`, `usable`) VALUES ('chum', 'Chum Bucket', 5, 1, 'item_standard', 0);
